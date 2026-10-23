@@ -1,3 +1,5 @@
+> **Moved (23 October 2026).** This repository now lives in [`openIE-dev/rce`](https://github.com/openIE-dev/rce) as [`tree-sitter/`](https://github.com/openIE-dev/rce/tree/main/tree-sitter), with its full history, so that it is checked from the same commit as the specification and the reference checker and can no longer drift from them. Changes go there; this repository is kept only as a pointer.
+
 # tree-sitter-rce
 
 A [tree-sitter](https://tree-sitter.github.io/) grammar for the RCE
